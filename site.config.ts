@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '7f0db7aa60c540a99de6ae281f133c79',
+  rootNotionPageId: 'a3a7b729fd10428080fa3d1d6f9068b1',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'IdeaForFun',
-  domain: 'https://www.notion.so/Personal-Home-7f0db7aa60c540a99de6ae281f133c79?pvs=4',
+  domain: 'https://www.notion.so/Yearly-Goals-a3a7b729fd10428080fa3d1d6f9068b1',
   author: 'Xun Lei',
 
   // open graph metadata (optional)
